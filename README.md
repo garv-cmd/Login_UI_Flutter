@@ -1,9 +1,9 @@
 # login_page_demo
-# check_Issues_For_Design
 A new Flutter application.
 Made by Google logo
 Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
-
+![alt text](https://user-images.githubusercontent.com/54171077/81929153-1f74b800-9604-11ea-8cce-f7bb8d49669a.png)
+![alt text](https://user-images.githubusercontent.com/54171077/81929422-9a3dd300-9604-11ea-8939-28f006054d83.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
